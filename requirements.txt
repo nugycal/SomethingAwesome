@@ -1,5 +1,5 @@
 paramiko==2.7.1
 stepic==0.4.1
 Pillow==7.1.1
-requests==2.23.0
+requests==2.31.0
 piexif==1.1.3
